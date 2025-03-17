@@ -10,7 +10,10 @@ Este é um simples jogo de **Jokenpô** (Pedra, Papel e Tesoura) desenvolvido co
 
 ## 📷 Demonstração
 
-![Descrição da imagem](C:\Users\Desktop\Desktop\projetos\Jokenpo)
+![VITORIA](https://github.com/Moacirguilherme/Game-Jokenpo/blob/main/jokenpo%20(1).JPG)
+![INICIO](https://github.com/Moacirguilherme/Game-Jokenpo/blob/main/jokenpo%20(2).JPG)
+![EMPATE](https://github.com/Moacirguilherme/Game-Jokenpo/blob/main/jokenpo%20(3).JPG)
+![DERROTA](https://github.com/Moacirguilherme/Game-Jokenpo/blob/main/jokenpo%20(4).JPG)
 
 
 ## 🎮 Como Jogar?
