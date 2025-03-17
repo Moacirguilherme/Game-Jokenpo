@@ -21,6 +21,4 @@ Este é um simples jogo de **Jokenpô** (Pedra, Papel e Tesoura) desenvolvido co
 
 ## 📂 Como Executar o Projeto?
 
-1. Clone este repositório:  
-   ```sh
-   git clone https://github.com/seu-usuario/jokenpo.git
+https://moacirguilherme.github.io/Game-Jokenpo/
